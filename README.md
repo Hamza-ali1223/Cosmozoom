@@ -12,7 +12,7 @@
 
 ## 📸 Preview
 
-![Cosmozoom Mars View](./cosmozoom/frontend/image.png)  
+![Cosmozoom Mars View](./cosmozoom/Frontend/image.png)  
 *Mars surface imagery from NASA Trek - Viking Orbiter*
 
 ---
